@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "acc5d40c94fac022300a0e9fdd777433",
+    "revision": "b1219d0590c56b2abd5056c634f44672",
     "url": "/kalashnykbohdan/goit-react-hw-test/index.html"
   },
   {
-    "revision": "de12964a0baaec2e9a51",
+    "revision": "2b5e0948b6bcacb9b96a",
     "url": "/kalashnykbohdan/goit-react-hw-test/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kalashnykbohdan/goit-react-hw-test/static/js/2.d3e159b1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "de12964a0baaec2e9a51",
-    "url": "/kalashnykbohdan/goit-react-hw-test/static/js/main.64ee23c1.chunk.js"
+    "revision": "2b5e0948b6bcacb9b96a",
+    "url": "/kalashnykbohdan/goit-react-hw-test/static/js/main.a2f5d8cf.chunk.js"
   },
   {
     "revision": "6dd55b75f5f2f8634999",
