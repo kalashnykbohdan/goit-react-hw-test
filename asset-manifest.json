@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/kalashnykbohdan/goit-react-hw-teststatic/css/main.5f361e03.chunk.css",
-    "main.js": "/kalashnykbohdan/goit-react-hw-teststatic/js/main.a40bbc73.chunk.js",
-    "main.js.map": "/kalashnykbohdan/goit-react-hw-teststatic/js/main.a40bbc73.chunk.js.map",
-    "runtime-main.js": "/kalashnykbohdan/goit-react-hw-teststatic/js/runtime-main.4c0cc435.js",
-    "runtime-main.js.map": "/kalashnykbohdan/goit-react-hw-teststatic/js/runtime-main.4c0cc435.js.map",
-    "static/js/2.d3e159b1.chunk.js": "/kalashnykbohdan/goit-react-hw-teststatic/js/2.d3e159b1.chunk.js",
-    "static/js/2.d3e159b1.chunk.js.map": "/kalashnykbohdan/goit-react-hw-teststatic/js/2.d3e159b1.chunk.js.map",
-    "index.html": "/kalashnykbohdan/goit-react-hw-testindex.html",
-    "precache-manifest.bc4143a5e7ebab0a5de0e017f9e68e90.js": "/kalashnykbohdan/goit-react-hw-testprecache-manifest.bc4143a5e7ebab0a5de0e017f9e68e90.js",
-    "service-worker.js": "/kalashnykbohdan/goit-react-hw-testservice-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/kalashnykbohdan/goit-react-hw-teststatic/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d3e159b1.chunk.js.LICENSE.txt": "/kalashnykbohdan/goit-react-hw-teststatic/js/2.d3e159b1.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/kalashnykbohdan/goit-react-hw-teststatic/media/logo.5d5d9eef.svg"
+    "main.css": "/kalashnykbohdan/goit-react-hw-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/kalashnykbohdan/goit-react-hw-test/static/js/main.64ee23c1.chunk.js",
+    "main.js.map": "/kalashnykbohdan/goit-react-hw-test/static/js/main.64ee23c1.chunk.js.map",
+    "runtime-main.js": "/kalashnykbohdan/goit-react-hw-test/static/js/runtime-main.9577f787.js",
+    "runtime-main.js.map": "/kalashnykbohdan/goit-react-hw-test/static/js/runtime-main.9577f787.js.map",
+    "static/js/2.d3e159b1.chunk.js": "/kalashnykbohdan/goit-react-hw-test/static/js/2.d3e159b1.chunk.js",
+    "static/js/2.d3e159b1.chunk.js.map": "/kalashnykbohdan/goit-react-hw-test/static/js/2.d3e159b1.chunk.js.map",
+    "index.html": "/kalashnykbohdan/goit-react-hw-test/index.html",
+    "precache-manifest.ac3033779afec5e7e0d7bf68355e174a.js": "/kalashnykbohdan/goit-react-hw-test/precache-manifest.ac3033779afec5e7e0d7bf68355e174a.js",
+    "service-worker.js": "/kalashnykbohdan/goit-react-hw-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/kalashnykbohdan/goit-react-hw-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d3e159b1.chunk.js.LICENSE.txt": "/kalashnykbohdan/goit-react-hw-test/static/js/2.d3e159b1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kalashnykbohdan/goit-react-hw-test/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4c0cc435.js",
+    "static/js/runtime-main.9577f787.js",
     "static/js/2.d3e159b1.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a40bbc73.chunk.js"
+    "static/js/main.64ee23c1.chunk.js"
   ]
 }
